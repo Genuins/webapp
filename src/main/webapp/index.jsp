@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>C'est bon</title>
+<title>C'est bon le test</title>
 </head>
 <body>
 
