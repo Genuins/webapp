@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Nzambe ako sunga</title>
+<title>Nzambe ako sungar</title>
 </head>
 <body>
     <h1>ça ne  pasrr bien fzzdzd</h1>
