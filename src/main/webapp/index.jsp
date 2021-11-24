@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Nzambe ako sunga </title>
+<title>Nzambe ako </title>
 </head>
 <body>
 
